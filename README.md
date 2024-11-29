@@ -1,7 +1,11 @@
 Recipe Delight App
+
 Assignment Name: Individual Assignment 2
+
 Submission Date: 20/11/2024
-GitHub Repository: Recipe Delight GitHub Link
+
+GitHub Repository: [Recipe Delight GitHub Link](https://github.com/Skomaiya/food_recipe.git)
+
 Demo Video: (Provide video link here)
 
 Introduction
